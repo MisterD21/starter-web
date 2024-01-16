@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 This is git project 
 a lot of pictures
 This is the famous and one of the best training course
+
+more text here
+some more text 
